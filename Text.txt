@@ -1,5 +1,0 @@
-Hello
-my first change
-my third change
-my second change
-THIS IS FROM DEV1
